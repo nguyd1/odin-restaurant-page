@@ -1,5 +1,7 @@
 # odin-restaurant-page
 
+https://nguyd1.github.io/odin-restaurant-page/
+
 ```Run "npm init -y" to initialize npm```
 
 ```Run "npm install webpack webpack-cli --save-dev" to install webpack to node_modules folder```
